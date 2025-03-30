@@ -5,7 +5,7 @@ This is a solution to the [Clipboard landing page](https://www.frontendmentor.io
 
 ### Links
 
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://mahmoudbadrali.github.io/Clipboard-landing-page/)
 
 ## Author
 
