@@ -27,6 +27,12 @@ body {
     margin-right: auto;
 }
 
+@media (max-width: 575px) {
+    .container {
+        padding-top: 65px;
+    }
+}
+
 .special-heading {
     color: var(--dark-grayish-blue);
     font-weight: 600;
